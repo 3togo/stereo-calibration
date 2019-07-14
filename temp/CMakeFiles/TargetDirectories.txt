@@ -1,0 +1,6 @@
+D:/msys64/home/user/git/others/stereo-calibration/temp/CMakeFiles/rebuild_cache.dir
+D:/msys64/home/user/git/others/stereo-calibration/temp/CMakeFiles/read.dir
+D:/msys64/home/user/git/others/stereo-calibration/temp/CMakeFiles/calibrate.dir
+D:/msys64/home/user/git/others/stereo-calibration/temp/CMakeFiles/calibrate_stereo.dir
+D:/msys64/home/user/git/others/stereo-calibration/temp/CMakeFiles/undistort_rectify.dir
+D:/msys64/home/user/git/others/stereo-calibration/temp/CMakeFiles/edit_cache.dir
